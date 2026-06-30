@@ -25,10 +25,10 @@
 
 ## 🖼️ Preview
 <!-- CODEX: drop product screenshots into docs/ -->
-![Cloudy Shiny — main view](docs/screenshot-1.png)
+<!-- ![Cloudy Shiny — main view](docs/screenshot-1.png) (screenshot pending) -->
 <!-- CODEX: capture the live dashboard at https://monarchcastletech.github.io/Cloudy-Shiny/ — the hero view showing the Cloudy&Shiny Index half-circle gauge, the composite score, and the STORMY/CLOUDY/SHINY regime label. Terminal-style dark theme. -->
 
-![Cloudy Shiny — global breadth &amp; forecast detail](docs/screenshot-2.png)
+<!-- ![Cloudy Shiny — global breadth &amp; forecast detail](docs/screenshot-2.png) (screenshot pending) -->
 <!-- CODEX: capture the lower panels — the 12-instrument global market-breadth grid and the quant forecast / regime-probability section. -->
 
 ## 🧭 What it does
